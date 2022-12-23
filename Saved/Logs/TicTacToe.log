@@ -845,3 +845,304 @@ Please see Output Log for details.
 [2022.12.23-09.41.13:200][969]LogViewport: Scene viewport resized to 2038x1254, mode Windowed.
 [2022.12.23-09.42.59:244][615]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
 [2022.12.23-09.42.59:244][615]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.23-09.49.02:485][202]LogSlate: Took 0.003567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.12.23-09.51.59:103][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TTT_Widget" FILE="../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Content/TTT_Widget.uasset" SILENT=true
+[2022.12.23-09.51.59:126][556]LogSavePackage: Moving output files for package: /Game/TTT_Widget
+[2022.12.23-09.51.59:128][556]LogSavePackage: Moving '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Saved/TTT_Widget5B477C0C46986D6E3497498BDF48BD38.tmp' to '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Content/TTT_Widget.uasset'
+[2022.12.23-09.51.59:149][556]AssetCheck: New page: Asset Save: TTT_Widget
+[2022.12.23-09.51.59:149][556]LogContentValidation: Display: Validating WidgetBlueprint /Game/TTT_Widget.TTT_Widget
+[2022.12.23-09.52.01:512][826]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.23-09.52.01:512][826]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.23-09.52.29:979][  1]LogWindows: LaunchURL https://docs.unrealengine.com/5.0/en//Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2022.12.23-09.52.57:443][478]LogEditorTransaction: Undo Rename Widget
+[2022.12.23-09.53.10:465][836]LogWindows: LaunchURL https://docs.unrealengine.com/5.0/en//Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2022.12.23-09.53.45:819][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TTT_Widget" FILE="../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Content/TTT_Widget.uasset" SILENT=true
+[2022.12.23-09.53.45:841][810]LogSavePackage: Moving output files for package: /Game/TTT_Widget
+[2022.12.23-09.53.45:842][810]LogSavePackage: Moving '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Saved/TTT_Widget661B41B04CCA5A64B75569A22646A425.tmp' to '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Content/TTT_Widget.uasset'
+[2022.12.23-09.53.45:863][810]AssetCheck: New page: Asset Save: TTT_Widget
+[2022.12.23-09.53.45:864][810]LogContentValidation: Display: Validating WidgetBlueprint /Game/TTT_Widget.TTT_Widget
+[2022.12.23-10.01.56:754][905]BlueprintLog: New page: Compile TTT_Widget
+[2022.12.23-10.01.56:829][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.12.23-10.01.57:545][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TTT_Widget" FILE="../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Content/TTT_Widget.uasset" SILENT=true
+[2022.12.23-10.01.57:566][974]LogSavePackage: Moving output files for package: /Game/TTT_Widget
+[2022.12.23-10.01.57:567][974]LogSavePackage: Moving '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Saved/TTT_Widget2560876B4219A34B244C34A5308243B6.tmp' to '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Content/TTT_Widget.uasset'
+[2022.12.23-10.01.57:589][974]AssetCheck: New page: Asset Save: TTT_Widget
+[2022.12.23-10.01.57:589][974]LogContentValidation: Display: Validating WidgetBlueprint /Game/TTT_Widget.TTT_Widget
+[2022.12.23-10.07.29:450][451]LogEditorTransaction: Undo Move Node
+[2022.12.23-10.09.09:024][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.12.23-10.09.09:027][641]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TTT_Level' took 0.045
+[2022.12.23-10.09.09:027][641]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TTT_Widget] ([2] browsable assets)...
+[2022.12.23-10.09.09:031][641]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TTT_Widget.TTT_Widget]
+[2022.12.23-10.09.09:031][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/TTT_Widget]
+[2022.12.23-10.09.09:031][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TTT_Widget" FILE="../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Saved/Autosaves/Game/TTT_Widget_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.12.23-10.09.09:060][641]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TTT_Widget_Auto1
+[2022.12.23-10.09.09:060][641]LogSavePackage: Moving '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Saved/TTT_Widget_Auto1D8E4B39A4510D871BFFDF68F81874FAA.tmp' to '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Saved/Autosaves/Game/TTT_Widget_Auto1.uasset'
+[2022.12.23-10.09.09:061][641]LogFileHelpers: Auto-saving content packages took 0.034
+[2022.12.23-10.14.07:620][787]BlueprintLog: New page: Compile TTT_Widget
+[2022.12.23-10.14.07:693][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.12.23-10.14.18:136][401]BlueprintLog: New page: Compile TTT_Widget
+[2022.12.23-10.14.18:204][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.12.23-10.14.19:544][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TTT_Widget" FILE="../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Content/TTT_Widget.uasset" SILENT=true
+[2022.12.23-10.14.19:576][473]LogSavePackage: Moving output files for package: /Game/TTT_Widget
+[2022.12.23-10.14.19:577][473]LogSavePackage: Moving '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Saved/TTT_Widget296D16384E206D91318C4E8156BD35AB.tmp' to '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Content/TTT_Widget.uasset'
+[2022.12.23-10.14.19:596][473]AssetCheck: New page: Asset Save: TTT_Widget
+[2022.12.23-10.14.19:596][473]LogContentValidation: Display: Validating WidgetBlueprint /Game/TTT_Widget.TTT_Widget
+[2022.12.23-10.15.49:589][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TTT_Widget" FILE="../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Content/TTT_Widget.uasset" SILENT=true
+[2022.12.23-10.15.49:621][849]LogSavePackage: Moving output files for package: /Game/TTT_Widget
+[2022.12.23-10.15.49:623][849]LogSavePackage: Moving '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Saved/TTT_Widget15A8023C41A5ABB249C1A7A75F40F3B4.tmp' to '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Content/TTT_Widget.uasset'
+[2022.12.23-10.15.49:643][849]AssetCheck: New page: Asset Save: TTT_Widget
+[2022.12.23-10.15.49:643][849]LogContentValidation: Display: Validating WidgetBlueprint /Game/TTT_Widget.TTT_Widget
+[2022.12.23-10.16.33:066][507]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (USB PnP Audio Device), InstanceID=1
+[2022.12.23-10.16.33:066][507]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16048
+[2022.12.23-10.16.34:065][509]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{28d70ee3-b7dc-4077-b8bb-8181c49e0202}, Name=Speakers (USB PnP Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=688.22
+[2022.12.23-10.16.34:065][509]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.12.23-10.16.34:069][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.12.23-10.17.53:755][565]LogViewport: Scene viewport resized to 1564x1254, mode Windowed.
+[2022.12.23-10.18.07:720][ 28]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.12.23-10.18.07:721][ 28]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.12.23-10.18.07:722][ 28]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/TTT_Level.TTT_Level:PersistentLevel.PlayerStart_0
+[2022.12.23-10.18.07:723][ 28]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.23-10.18.07:723][ 28]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/TTT_Level.TTT_Level:PersistentLevel.PlayerStart_0
+[2022.12.23-10.18.07:723][ 28]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.23-10.18.08:032][ 42]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.12.23-10.18.08:032][ 42]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.12.23-10.18.08:034][ 42]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/TTT_Level.TTT_Level:PersistentLevel.PlayerStart_1
+[2022.12.23-10.18.08:034][ 42]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.23-10.18.08:035][ 42]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/TTT_Level.TTT_Level:PersistentLevel.PlayerStart_1
+[2022.12.23-10.18.08:035][ 42]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.23-10.18.28:336][526]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-10.19.11:691][174]LogSlate: Window 'Create New GameMode' being destroyed
+[2022.12.23-10.19.18:870][590]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-10.19.33:866][891]LogEditorViewport: Clicking Background
+[2022.12.23-10.19.44:214][367]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.12.23-10.19.44:231][367]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.12.23-10.19.44:239][367]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.12.23-10.19.44:260][368]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.12.23-10.19.58:457][  2]LogContentBrowser: Attempting asset rename: NewBlueprint -> TTT_Character
+[2022.12.23-10.19.58:462][  2]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.12.23-10.20.04:628][ 97]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TTT_Character.TTT_Character_C
+[2022.12.23-10.20.04:628][ 97]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TTT_Character.TTT_Character_C
+[2022.12.23-10.20.04:629][ 97]LogActorFactory: Actor Factory spawned Blueprint /Game/TTT_Character.TTT_Character as actor: TTT_Character_C /Game/TTT_Level.TTT_Level:PersistentLevel.TTT_Character_C_0
+[2022.12.23-10.20.04:629][ 97]LogActorFactory: Actor Factory spawned Blueprint /Game/TTT_Character.TTT_Character as actor: TTT_Character_C /Game/TTT_Level.TTT_Level:PersistentLevel.TTT_Character_C_0
+[2022.12.23-10.20.20:687][498]LogEditorViewport: Clicking Background
+[2022.12.23-10.20.22:686][609]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TTT_Character.TTT_Character
+[2022.12.23-10.20.22:686][609]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-10.20.23:306][609]LogViewport: Scene viewport resized to 1525x974, mode Windowed.
+[2022.12.23-10.20.47:825][803]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-10.22.40:106][359]BlueprintLog: New page: Compile TTT_Character
+[2022.12.23-10.22.40:190][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.12.23-10.22.41:144][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TTT_Character" FILE="../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Content/TTT_Character.uasset" SILENT=true
+[2022.12.23-10.22.44:761][410]LogSavePackage: Moving output files for package: /Game/TTT_Character
+[2022.12.23-10.22.44:761][410]LogSavePackage: Moving '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Saved/TTT_Character612FB1524F4B7DA590FE54A0910711F4.tmp' to '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Content/TTT_Character.uasset'
+[2022.12.23-10.22.44:788][410]AssetCheck: New page: Asset Save: TTT_Character
+[2022.12.23-10.22.44:788][410]LogContentValidation: Display: Validating Blueprint /Game/TTT_Character.TTT_Character
+[2022.12.23-10.23.13:329][110]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.23-10.23.13:337][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.23-10.23.13:337][110]PIE: New page: PIE session: TTT_Level (23-Dec-2022, 9:23:13 pm)
+[2022.12.23-10.23.13:343][110]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.12.23-10.23.13:343][110]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.23-10.23.13:343][110]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TTT_Level
+[2022.12.23-10.23.13:345][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001818s)
+[2022.12.23-10.23.13:345][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TTT_Level.TTT_Level to /Game/UEDPIE_0_TTT_Level.TTT_Level (0.001928s)
+[2022.12.23-10.23.13:345][110]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.23-10.23.13:346][110]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-10.23.13:346][110]LogAIModule: Creating AISystem for world TTT_Level
+[2022.12.23-10.23.13:346][110]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2022.12.23-10.23.13:394][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.12.23-10.23.13:396][110]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.23-10.23.13:396][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.23-10.23.13:397][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.23-10.23.13:397][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.23-10.23.13:397][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.23-10.23.13:397][110]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.23-10.23.13:397][110]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.23-10.23.13:397][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.23-10.23.13:397][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.23-10.23.13:397][110]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.23-10.23.13:397][110]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.23-10.23.13:397][110]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.23-10.23.13:400][110]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.23-10.23.13:428][110]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Audio Device)
+[2022.12.23-10.23.13:428][110]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.23-10.23.13:428][110]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.23-10.23.13:428][110]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.23-10.23.13:429][110]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.12.23-10.23.13:429][110]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.12.23-10.23.13:431][110]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.12.23-10.23.13:431][110]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.12.23-10.23.13:431][110]LogInit: FAudioDevice initialized.
+[2022.12.23-10.23.13:431][110]LogAudio: Display: Audio Device (ID: 2) registered with world 'TTT_Level'.
+[2022.12.23-10.23.13:447][110]LogLoad: Game class is 'TTT_GameMode_C'
+[2022.12.23-10.23.13:448][110]LogWorld: Bringing World /Game/UEDPIE_0_TTT_Level.TTT_Level up for play (max tick rate 60) at 2022.12.23-15.53.13
+[2022.12.23-10.23.13:448][110]LogWorld: Bringing up level for play took: 0.000411
+[2022.12.23-10.23.13:450][110]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.12.23-10.23.13:471][110]PIE: Server logged in
+[2022.12.23-10.23.13:472][110]PIE: Play in editor total start time 0.136 seconds.
+[2022.12.23-10.23.17:713][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-10.23.17:713][342]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TTT_Level
+[2022.12.23-10.23.17:713][342]LogWorld: UWorld::CleanupWorld for TTT_Level, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-10.23.17:713][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-10.23.17:722][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.23-10.23.17:728][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-10.23.17:773][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.23-10.23.17:773][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.23-10.23.17:775][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.23-10.23.17:778][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-10.23.17:829][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.12.23-10.23.17:849][343]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.12.23-10.23.27:653][930]LogViewport: Scene viewport resized to 779x625, mode Windowed.
+[2022.12.23-10.23.27:680][930]LogSlate: Took 0.002659 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.23-10.23.27:705][930]LogViewport: Scene viewport resized to 779x625, mode Windowed.
+[2022.12.23-10.23.27:741][930]LogViewport: Scene viewport resized to 779x625, mode Windowed.
+[2022.12.23-10.23.27:777][930]LogViewport: Scene viewport resized to 1358x1089, mode Windowed.
+[2022.12.23-10.23.27:815][931]LogViewport: Scene viewport resized to 780x625, mode Windowed.
+[2022.12.23-10.23.27:866][932]LogViewport: Scene viewport resized to 779x625, mode Windowed.
+[2022.12.23-10.23.30:816][106]LogViewport: Scene viewport resized to 1107x888, mode Windowed.
+[2022.12.23-10.23.30:855][107]LogViewport: Scene viewport resized to 1418x1137, mode Windowed.
+[2022.12.23-10.23.30:905][108]LogViewport: Scene viewport resized to 1552x1245, mode Windowed.
+[2022.12.23-10.23.30:945][109]LogViewport: Scene viewport resized to 1564x1254, mode Windowed.
+[2022.12.23-10.23.32:084][174]LogViewport: Scene viewport resized to 1094x877, mode Windowed.
+[2022.12.23-10.23.32:124][175]LogViewport: Scene viewport resized to 901x722, mode Windowed.
+[2022.12.23-10.23.32:161][176]LogViewport: Scene viewport resized to 815x653, mode Windowed.
+[2022.12.23-10.23.32:196][177]LogViewport: Scene viewport resized to 784x628, mode Windowed.
+[2022.12.23-10.23.32:230][178]LogViewport: Scene viewport resized to 779x625, mode Windowed.
+[2022.12.23-10.23.34:079][286]LogViewport: Scene viewport resized to 1039x833, mode Windowed.
+[2022.12.23-10.23.34:161][287]LogViewport: Scene viewport resized to 1536x1232, mode Windowed.
+[2022.12.23-10.23.34:185][288]LogViewport: Scene viewport resized to 1560x1251, mode Windowed.
+[2022.12.23-10.23.34:231][289]LogViewport: Scene viewport resized to 1564x1254, mode Windowed.
+[2022.12.23-10.23.49:050][174]LogViewport: Scene viewport resized to 1580x1254, mode Windowed.
+[2022.12.23-10.23.49:091][176]LogViewport: Scene viewport resized to 1634x1254, mode Windowed.
+[2022.12.23-10.23.49:132][178]LogViewport: Scene viewport resized to 1704x1254, mode Windowed.
+[2022.12.23-10.23.49:180][180]LogViewport: Scene viewport resized to 1746x1254, mode Windowed.
+[2022.12.23-10.23.49:220][182]LogViewport: Scene viewport resized to 1779x1254, mode Windowed.
+[2022.12.23-10.23.49:266][184]LogViewport: Scene viewport resized to 1810x1254, mode Windowed.
+[2022.12.23-10.23.49:309][186]LogViewport: Scene viewport resized to 1848x1254, mode Windowed.
+[2022.12.23-10.23.49:334][187]LogViewport: Scene viewport resized to 1860x1254, mode Windowed.
+[2022.12.23-10.23.49:400][189]LogViewport: Scene viewport resized to 1899x1254, mode Windowed.
+[2022.12.23-10.23.49:472][191]LogViewport: Scene viewport resized to 1914x1254, mode Windowed.
+[2022.12.23-10.23.49:512][193]LogViewport: Scene viewport resized to 1929x1254, mode Windowed.
+[2022.12.23-10.23.49:572][195]LogViewport: Scene viewport resized to 1934x1254, mode Windowed.
+[2022.12.23-10.23.50:011][221]LogViewport: Scene viewport resized to 1923x1254, mode Windowed.
+[2022.12.23-10.23.50:041][222]LogViewport: Scene viewport resized to 1913x1254, mode Windowed.
+[2022.12.23-10.23.50:114][224]LogViewport: Scene viewport resized to 1886x1254, mode Windowed.
+[2022.12.23-10.23.50:159][226]LogViewport: Scene viewport resized to 1869x1254, mode Windowed.
+[2022.12.23-10.23.50:202][228]LogViewport: Scene viewport resized to 1855x1254, mode Windowed.
+[2022.12.23-10.23.50:247][230]LogViewport: Scene viewport resized to 1820x1254, mode Windowed.
+[2022.12.23-10.23.50:284][232]LogViewport: Scene viewport resized to 1812x1254, mode Windowed.
+[2022.12.23-10.23.50:326][234]LogViewport: Scene viewport resized to 1809x1254, mode Windowed.
+[2022.12.23-10.23.53:307][412]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.23-10.23.53:316][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.23-10.23.53:316][412]PIE: New page: PIE session: TTT_Level (23-Dec-2022, 9:23:53 pm)
+[2022.12.23-10.23.53:316][412]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TTT_Level
+[2022.12.23-10.23.53:317][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000816s)
+[2022.12.23-10.23.53:317][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TTT_Level.TTT_Level to /Game/UEDPIE_0_TTT_Level.TTT_Level (0.000870s)
+[2022.12.23-10.23.53:317][412]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.23-10.23.53:317][412]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-10.23.53:318][412]LogAIModule: Creating AISystem for world TTT_Level
+[2022.12.23-10.23.53:318][412]LogPlayLevel: PIE: World Init took: (0.001270s)
+[2022.12.23-10.23.53:382][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.12.23-10.23.53:386][412]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.23-10.23.53:386][412]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.23-10.23.53:386][412]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.23-10.23.53:386][412]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.23-10.23.53:386][412]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.23-10.23.53:386][412]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.23-10.23.53:386][412]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.23-10.23.53:386][412]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.23-10.23.53:386][412]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.23-10.23.53:386][412]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.23-10.23.53:386][412]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.23-10.23.53:386][412]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.23-10.23.53:390][412]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.23-10.23.53:417][412]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Audio Device)
+[2022.12.23-10.23.53:418][412]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.23-10.23.53:418][412]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.23-10.23.53:418][412]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.23-10.23.53:419][412]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.12.23-10.23.53:419][412]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.12.23-10.23.53:421][412]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.12.23-10.23.53:421][412]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.12.23-10.23.53:421][412]LogInit: FAudioDevice initialized.
+[2022.12.23-10.23.53:421][412]LogAudio: Display: Audio Device (ID: 3) registered with world 'TTT_Level'.
+[2022.12.23-10.23.53:432][412]LogLoad: Game class is 'TTT_GameMode_C'
+[2022.12.23-10.23.53:432][412]LogWorld: Bringing World /Game/UEDPIE_0_TTT_Level.TTT_Level up for play (max tick rate 60) at 2022.12.23-15.53.53
+[2022.12.23-10.23.53:433][412]LogWorld: Bringing up level for play took: 0.000352
+[2022.12.23-10.23.53:434][412]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.12.23-10.23.53:436][412]PIE: Server logged in
+[2022.12.23-10.23.53:437][412]PIE: Play in editor total start time 0.121 seconds.
+[2022.12.23-10.24.02:593][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-10.24.02:593][954]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TTT_Level
+[2022.12.23-10.24.02:593][954]LogWorld: UWorld::CleanupWorld for TTT_Level, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-10.24.02:593][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-10.24.02:604][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.23-10.24.02:611][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-10.24.02:659][954]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.23-10.24.02:659][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.23-10.24.02:661][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.23-10.24.02:666][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-10.24.02:668][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.12.23-10.24.02:689][955]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.12.23-10.24.23:503][188]LogDerivedDataCache: C:/Users/gazekhan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.028 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.23-10.24.28:954][506]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.23-10.24.28:961][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.23-10.24.28:961][506]PIE: New page: PIE session: TTT_Level (23-Dec-2022, 9:24:28 pm)
+[2022.12.23-10.24.28:961][506]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TTT_Level
+[2022.12.23-10.24.28:962][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000873s)
+[2022.12.23-10.24.28:962][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TTT_Level.TTT_Level to /Game/UEDPIE_0_TTT_Level.TTT_Level (0.000993s)
+[2022.12.23-10.24.28:962][506]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.23-10.24.28:962][506]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-10.24.28:962][506]LogAIModule: Creating AISystem for world TTT_Level
+[2022.12.23-10.24.28:963][506]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2022.12.23-10.24.29:014][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.23-10.24.29:015][506]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.12.23-10.24.29:016][506]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.23-10.24.29:016][506]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.23-10.24.29:016][506]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.23-10.24.29:016][506]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.23-10.24.29:016][506]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.23-10.24.29:016][506]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.23-10.24.29:016][506]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.23-10.24.29:016][506]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.23-10.24.29:016][506]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.23-10.24.29:016][506]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.23-10.24.29:016][506]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.23-10.24.29:019][506]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.23-10.24.29:051][506]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Audio Device)
+[2022.12.23-10.24.29:052][506]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.23-10.24.29:052][506]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.23-10.24.29:052][506]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.23-10.24.29:053][506]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.12.23-10.24.29:053][506]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.12.23-10.24.29:055][506]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.12.23-10.24.29:055][506]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.12.23-10.24.29:055][506]LogInit: FAudioDevice initialized.
+[2022.12.23-10.24.29:055][506]LogAudio: Display: Audio Device (ID: 4) registered with world 'TTT_Level'.
+[2022.12.23-10.24.29:068][506]LogLoad: Game class is 'TTT_GameMode_C'
+[2022.12.23-10.24.29:068][506]LogWorld: Bringing World /Game/UEDPIE_0_TTT_Level.TTT_Level up for play (max tick rate 60) at 2022.12.23-15.54.29
+[2022.12.23-10.24.29:069][506]LogWorld: Bringing up level for play took: 0.000382
+[2022.12.23-10.24.29:070][506]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.12.23-10.24.29:072][506]PIE: Server logged in
+[2022.12.23-10.24.29:073][506]PIE: Play in editor total start time 0.113 seconds.
+[2022.12.23-10.24.32:552][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-10.24.32:553][709]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TTT_Level
+[2022.12.23-10.24.32:553][709]LogWorld: UWorld::CleanupWorld for TTT_Level, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-10.24.32:553][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-10.24.32:564][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.23-10.24.32:571][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-10.24.32:619][709]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.23-10.24.32:619][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.23-10.24.32:621][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.23-10.24.32:625][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-10.24.32:629][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.12.23-10.24.32:651][710]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.12.23-10.24.34:830][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TTT_Level" FILE="../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Content/TTT_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.23-10.24.34:876][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.12.23-10.24.34:881][835]LogSavePackage: Moving output files for package: /Game/TTT_Level
+[2022.12.23-10.24.34:882][835]LogSavePackage: Moving '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Saved/TTT_Level3FBB32394EE3358F4CEDA19463AF1F9A.tmp' to '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Content/TTT_Level.umap'
+[2022.12.23-10.24.34:924][835]AssetCheck: New page: Asset Save: TTT_Level
+[2022.12.23-10.24.34:924][835]LogContentValidation: Display: Validating World /Game/TTT_Level.TTT_Level
+[2022.12.23-10.24.40:126][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TTT_Character" FILE="../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Content/TTT_Character.uasset" SILENT=true
+[2022.12.23-10.24.40:132][139]LogSavePackage: Moving output files for package: /Game/TTT_Character
+[2022.12.23-10.24.40:133][139]LogSavePackage: Moving '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Saved/TTT_CharacterE65F6EAF4E9E05FD9532268F85584BCB.tmp' to '../../../../../../Users/gazekhan/Documents/Unreal Projects/TicTacToe/Content/TTT_Character.uasset'
+[2022.12.23-10.24.40:152][139]AssetCheck: New page: Asset Save: TTT_Character
+[2022.12.23-10.24.40:152][139]LogContentValidation: Display: Validating Blueprint /Game/TTT_Character.TTT_Character
