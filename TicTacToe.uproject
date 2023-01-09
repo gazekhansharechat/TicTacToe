@@ -1,8 +1,18 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "{A35AEBAF-452C-FC74-E7B0-EF8E1384B962}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "TicTacToe",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
