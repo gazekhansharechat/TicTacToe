@@ -8,7 +8,18 @@ public class TicTacToe : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
+		PublicDependencyModuleNames.AddRange(new string[] 
+		{ 
+			"Core", 
+			"CoreUObject", 
+			"Engine", 
+			"InputCore",
+			
+			"OnlineSubsystem",
+			"OnlineSubsystemUtils",
+			"Voice",
+			"CoreOnline"
+		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 

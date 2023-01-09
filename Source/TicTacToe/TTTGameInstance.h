@@ -3,16 +3,15 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "GameFramework/GameMode.h"
-#include "TTTGameMode.generated.h"
+#include "Engine/GameInstance.h"
+#include "TTTGameInstance.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class TICTACTOE_API ATTTGameMode : public AGameMode
+class TICTACTOE_API UTTTGameInstance : public UGameInstance
 {
 	GENERATED_BODY()
-
-	ATTTGameMode();
+	
 };

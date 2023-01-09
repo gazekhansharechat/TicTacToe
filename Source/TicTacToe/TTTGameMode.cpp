@@ -2,4 +2,10 @@
 
 
 #include "TTTGameMode.h"
+#include "TTTSession.h"
+
+ATTTGameMode::ATTTGameMode()
+{
+	GameSessionClass = ATTTSession::StaticClass();
+}
 
